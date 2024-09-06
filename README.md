@@ -141,3 +141,5 @@ If you have questions feel free to ask me.
 
 ### References
 Project based on [Marc Lamberti](https://www.youtube.com/@MarcLamberti) videos.
+
+### Deep explanation from [author](https://www.youtube.com/watch?v=NP08fHker5U)
